@@ -1,0 +1,17 @@
+{
+  "properties": [
+    {
+      "property_id": "prop_1",
+      "name": "Marina View Apartment",
+      "area": "Dubai Marina",
+      "building": "Marina View Tower",
+      "price": 950000,
+      "price_sqft": 1700,
+      "size_sqft": 560,
+      "target_price": 850000,
+      "area_avg_price_sqft": 1800,
+      "watched": true,
+      "last_updated": "2026-05-16"
+    }
+  ]
+}
